@@ -1,0 +1,1 @@
+psexec.exe @machines.txt "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe /ua /installsource scheduler"
